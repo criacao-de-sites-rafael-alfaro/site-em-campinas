@@ -77,11 +77,11 @@
 		// if true the slider will automatically slide, and it will only stop if the user clicks on a thumb
 		autoplay			: true,
 		// interval for the slideshow
-		slideshow_interval	: 6000,
+		slideshow_interval	: 8000,
 		// speed for the sliding animation
 		speed			: 800,
 		// easing for the sliding animation
-		easing			: '20',
+		easing			: '',
 		// percentage of speed for the titles animation. Speed will be speed * titlesFactor
 		titlesFactor		: 0.60,
 		// titles animation speed

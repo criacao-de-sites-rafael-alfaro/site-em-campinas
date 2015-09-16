@@ -81,7 +81,7 @@
 		// speed for the sliding animation
 		speed			: 600,
 		// easing for the sliding animation
-		easing			: '600',
+		easing			: '6000',
 		// percentage of speed for the titles animation. Speed will be speed * titlesFactor
 		titlesFactor		: 0.60,
 		// titles animation speed
